@@ -8,8 +8,8 @@ import {
   DropdownMenuSeparator,
   DropdownMenuContent,
   DropdownMenuCheckboxItem,
-} from "../ui/dropdown-menu";
-import { Button } from "../ui/button";
+} from "../../ui/dropdown-menu";
+import { Button } from "../../ui/button";
 import { SunIcon, MoonIcon, SunMoon } from "lucide-react";
 
 const ModeToggle = () => {
